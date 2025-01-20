@@ -1,5 +1,6 @@
 # Hello, I'm CHANGEME
 <a href="https://www.linkedin.com/in/anirudh-gupta-420720281/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anirudh-gupta-420720281/"><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2837629" style='border:none;'></iframe></a>
 
 [Brief Introduction - Remove this afterwards]
 
