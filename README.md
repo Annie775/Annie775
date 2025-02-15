@@ -57,4 +57,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Annie775/Mac_Changer_Project">MAC Address Spoofer</a>
+- <a href="https://github.com/Annie775/Network_Scanner/tree/master">Network Scanner</a>
 - SOC Automation Project
