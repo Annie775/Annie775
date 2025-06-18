@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 
-<a href=""><img src="https://img.shields.io/badge/-CNSP-0072b1?&style=for-the-badge&logo=CNSP&logoColor=white" /></a>
+<a href=""><img src="https://img.shields.io/badge/-CNSP-ffa500?&style=for-the-badge&logo=CNSP&logoColor=white" /></a>
 
 ## Projects
 - <a href="https://github.com/Annie775/Mac_Changer_Project">MAC Address Spoofer</a>
