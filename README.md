@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 
-<a href=""><img src="https://img.shields.io/badge/-CNSP-C76e00?&style=for-the-badge&logo=CNSP&logoColor=white" /></a>
+<a href="https://github.com/Annie775/Certificates/blob/Main/AnirudhGupta-CertifiedNetworkSecurityPractitioner(CNSP).pdf"><img src="https://img.shields.io/badge/-CNSP-C76e00?&style=for-the-badge&logo=CNSP&logoColor=white" /></a>
 
 ## Projects
 - <a href="https://github.com/Annie775/Mac_Changer_Project">MAC Address Spoofer</a>
