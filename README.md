@@ -18,4 +18,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 <a href="https://github.com/Annie775/Mac_Changer_Project"><img src="https://img.shields.io/badge/-MAC Address Spoofer-C76e00?&style=for-the-badge&logo=CNSP&logoColor=white" /></a>
 <a href="https://github.com/Annie775/Network_Scanner/tree/master"><img src="https://img.shields.io/badge/-Network Scanner-C76e00?&style=for-the-badge&logo=CNSP&logoColor=white" /></a>
+<a href="https://github.com/Annie775/Python-Projects"><img src="https://img.shields.io/badge/-Python Projects-0072b1?&style=for-the-badge&logo=CNSP&logoColor=white" /></a>
 
